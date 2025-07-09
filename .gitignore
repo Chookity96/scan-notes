@@ -1,0 +1,23 @@
+ 
+# --- FRONTEND (React in web) ---
+/scan-notes-web/node_modules
+/scan-notes-web/dist
+/scan-notes-web/.env
+/scan-notes-web/.DS_Store
+
+# --- BACKEND (ASP.NET Core in api) ---
+/scan-notes-api/bin
+/scan-notes-api/obj
+/scan-notes-api/.vs
+/scan-notes-api/*.db
+/scan-notes-api/appsettings.*.json
+
+# --- GLOBAL ---
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode
+.env
+.DS_Store
+Thumbs.db
